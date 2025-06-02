@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://leetcard.jacoblin.cool/rodi314159?ext=activity)
+![](https://leetcard.jacoblin.cool/rodi314159?ext=heatmap)
 
 <!--
 **rodi-314/rodi-314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
