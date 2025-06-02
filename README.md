@@ -3,6 +3,7 @@
 - 🏫 I'm a second-year **Computer Engineering** student at the **National University of Singapore (NUS)**
 - 💡 I'm interested in **Software Engineering**, **Machine Learning**, **IoT**, **Embedded Systems**, and **Cybersecurity**
 - ⚡ I've a strong passion in **problem-solving**, and am particularly interested to use my skills to **design**, **create**, and **implement** technologies to **protect** and **better** the lives of others 😄
+- 🎵 I also fuel my passion for music aside from my computer engineering pursuits through music performance 🎹🪕 and composition 🎼 and would love to have the opportunity to combine both these disciplines!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roderick-kong/)
 
 ### My LeetCode Progress </>
