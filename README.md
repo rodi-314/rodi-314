@@ -5,6 +5,7 @@
 - ⚡ I've a strong passion in **problem-solving**, and am particularly interested to use my skills to **design**, **create**, and **implement** technologies to **protect** and **better** the lives of others 😄
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roderick-kong/)
 
+## My Humble LeetCode Progress </>
 ![](https://leetcard.jacoblin.cool/rodi314159?ext=heatmap)
 
 <!--
