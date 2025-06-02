@@ -6,6 +6,23 @@
 - 🎵 I also fuel my passion for **music** aside from my computer engineering pursuits through **music performance** 🎹🪕 and **composition** 🎼 and would love to have the opportunity to combine both these disciplines!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roderick-kong/)
 
+### Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+</div>
+
+### Technologies
+
 ### My LeetCode Progress </>
 ![](https://leetcard.jacoblin.cool/rodi314159?ext=heatmap)
 
