@@ -1,7 +1,7 @@
 ## Hi! I'm Roderick 👋
 
-- 🏫 I'm a second-year Computer Engineering student at the National University of Singapore (NUS)
-- 💡 I'm interested in Software Engineering, Machine Learning, IoT and Cybersecurity
+- 🏫 I'm a second-year **Computer Engineering** student at the **National University of Singapore (NUS)**
+- 💡 I'm interested in **Software Engineering**, **Machine Learning**, **IoT**, **Embedded Systems**, and **Cybersecurity**
 - ⚡ I've a strong passion in **problem-solving**, and am particularly interested to use my skills to **design**, **create**, and **implement** technologies to **protect** and **better** the lives of others 😄
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roderick-kong/)
 
